@@ -93,10 +93,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ## OUTPUT:
 
 ### Home Page:
-![homepage](images/areaofrect)
+![homepage](/images/areaofrect.png)
 
 ### HTML Validator
-![valid](images/valid-5)
+![valid](images/valid-5.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully.
