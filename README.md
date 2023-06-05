@@ -93,8 +93,9 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ## OUTPUT:
 
 ### Home Page:
-![homepage](/images/areaofrect.png)
-
+![homepage](/images/page-5.png)
+### Server :
+![Server](server-5.png)
 ### HTML Validator
 ![valid](images/valid-5.png)
 
